@@ -1,7 +1,7 @@
 const host = 'localhost';
 const port = 3306;
 const user = 'root';
-const pass = 'root';
+const pass = 'admin';
 const database = 'lab';
 
 async function mysqlConnect() {
